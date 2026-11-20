@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Live reader UI backed by TruyenQQ pages; chapter images remain on their source host.",
-  "scripts": { "dev": "vercel dev" }
+  "scripts": { "dev": "vercel dev", "crawl": "node scripts/crawl.js" },
+  "dependencies": { "cheerio": "^1.1.2" }
 }
 
