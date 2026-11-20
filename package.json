@@ -1,0 +1,8 @@
+{
+  "name": "truyenqq-reader",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Live reader UI backed by TruyenQQ pages; chapter images remain on their source host.",
+  "scripts": { "dev": "vercel dev" }
+}
+
